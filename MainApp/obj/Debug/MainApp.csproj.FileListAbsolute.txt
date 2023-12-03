@@ -1,0 +1,10 @@
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\bin\Debug\MainApp.exe.config
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\bin\Debug\MainApp.exe
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\bin\Debug\MainApp.pdb
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\obj\Debug\MainApp.exe
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\obj\Debug\MainApp.pdb
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\bin\Debug\MySharedLibrary.dll
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\Mphasis-B2\Day-20\MySharedLibrary\MainApp\obj\Debug\MainApp.csproj.CopyComplete
